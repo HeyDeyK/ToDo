@@ -1,0 +1,13 @@
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.deps.json
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.dll
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.pdb
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.csproj.CoreCompileInputs.cache
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.Abstract.AbstractDatabaseAccess.xaml.g.cs
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.App.xaml.g.cs
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.BindingListview.xaml.g.cs
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.MainPage.xaml.g.cs
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.TodoList.xaml.g.cs
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.AssemblyInfoInputs.cache
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.AssemblyInfo.cs
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.dll
+A:\VS-projekty\ToDo\ToDoList\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.pdb
